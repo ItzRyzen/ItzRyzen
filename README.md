@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rotate0&label=Profile%20views&color=0e75b6&style=flat" alt="rotate0" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rotate0" alt="rotate0" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ItzRyzen" alt="ItzRyzen" /></a> </p>
 
 - 🔭 I’m currently working on **a project called NoteXI**
 
