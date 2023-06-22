@@ -1,15 +1,17 @@
-<h1 align="center">Hi 👋, I'm Rotate</h1>
+<h1 align="center">Hi 👋, I'm Ryzen</h1>
 <h3 align="center">A developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rotate0&label=Profile%20views&color=0e75b6&style=flat" alt="rotate0" /> </p>
 
-- 🔭 I’m currently working on **a project called Chroma**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rotate0" alt="rotate0" /></a> </p>
+
+- 🔭 I’m currently working on **a project called NoteXI**
 
 - 🌱 I’m currently learning **Java, C++, C#, HTML-CSS-JS, Swift**
 
-- 💬 Ask me about **C#**
+- 💬 Ask me about **C#, Java**
 
-- 📫 How to reach me **rotate_#9154**
+- 📫 How to reach me **ItzRyzen#9154**
 
 - ⚡ Fun fact **I think I am stooped**
 
